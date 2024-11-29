@@ -1,11 +1,13 @@
-## Basic backend for pump.fun
+# Pumpfun Backend 
+  Basic pumpfun backend code.
+  Many parts are under private status.
 
-Many parts are under private status.
+## Related repository
+  You can check smart contract and frontend repo as well in my github.
+  [Pumpfun Smart contract repo](https://github.com/0xTan1319/Pumpfun-Smart-Contract)
+  [Pumpfun Backend repo](https://github.com/0xTan1319/Pump-Fun-FE)
 
-You can check smart contract and frontend repo as well.
+## Contact
+  You can contact me if you want a better product.
 
-You can contact me if you want a better product.
-
-Telegram: https://t.me/microgift28
-
-Discord: https://discord.com/users/1074514238325927956
+  Telegram: [@shiny0103](https://t.me/shiny0103)
